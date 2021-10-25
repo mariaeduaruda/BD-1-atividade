@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T11:26:18.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="SugMqIT7vAtDMz4QhpuX" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T11:27:55.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="fUO0fLxJstueMb8LkqLf" version="15.5.8" type="github">
   <diagram id="whMctLQKZBACZM6Y0c61" name="Page-1">
     <mxGraphModel dx="943" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,6 +252,24 @@
         </mxCell>
         <mxCell id="to46vw2VuuAcg_FX-II9-96" value="Numero_Item" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="321" y="505" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-100" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-101" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-102" value="Tamanho_Pizza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="321" y="519" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-103" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="330" y="545" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fontSize=10;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="545" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to46vw2VuuAcg_FX-II9-105" value="Quantidade" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="325" y="534" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
