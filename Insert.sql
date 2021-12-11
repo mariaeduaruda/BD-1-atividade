@@ -114,16 +114,16 @@ VALUES
 
 INSERT INTO Categorias(ID_categoria, tipo_categoria, pontuacao)
 VALUES
-(1, 'Japones',  1),
-(2, 'caseiro', 2),
-(3, 'lanche', 3),
+(1, 'Japones',  5.0),
+(2, 'caseiro', 4.6),
+(3, 'lanche', 4.3),
 (4, 'mercado', 4),
 (5, 'mexicano', 5),
-(6, 'arabe', 6),
-(7, 'sorvete', 7),
-(8, 'doce', 8),
-(9, 'fitness', 9),
-(10, 'pizza', 10);
+(6, 'arabe', 3.9),
+(7, 'sorvete', 3.7),
+(8, 'doce', 4.5),
+(9, 'fitness', 3.9),
+(10, 'pizza', 4.8);
 
 INSERT INTO Cardapio(ID_cardapio, ID_restaurante, itens_cardapio,)
 VALUES
