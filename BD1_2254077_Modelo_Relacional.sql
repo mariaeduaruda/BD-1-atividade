@@ -48,7 +48,7 @@ CREATE TABLE Proprietario (
 CREATE TABLE Cartao (
   num_cartao INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
   nome_cartao VARCHAR(100),
-  validade VARCHAR(9),
+  validade VARCHAR(15),
   ID_User INTEGER,
   FOREIGN KEY (ID_User) REFERENCES Consumidor(ID_User)
 );
@@ -64,7 +64,7 @@ CREATE TABLE Pedido (
   ID_restaurante INTEGER,
   ID_User  INTEGER,
   valor_total DECIMAL(20,2),
-  hora_pedido VARCHAR(9),
+  hora_pedido VARCHAR(100),
   forma_pagamento  VARCHAR(15),
   endereco VARCHAR(100),
   FOREIGN KEY (ID_User) REFERENCES Consumidor(ID_User),
