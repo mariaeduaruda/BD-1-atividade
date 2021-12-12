@@ -125,7 +125,8 @@ CREATE TABLE Itens_Pedido (
   ID_Itemp INTEGER PRIMARY KEY,
   ID_item INTEGER,
   ID_Pedido INTEGER,
-  FOREIGN KEY (ID_item) REFERENCES Item(ID_item),
+  ID_restaurante INTEGER,
   FOREIGN KEY (ID_restaurante) REFERENCES Restaurante(ID_restaurante),
+  FOREIGN KEY (ID_item) REFERENCES Item(ID_item),
   FOREIGN KEY (ID_Pedido) REFERENCES Pedido(ID_Pedido)
 );
