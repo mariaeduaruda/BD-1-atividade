@@ -104,7 +104,7 @@ CREATE TABLE Entrega (
 CREATE TABLE Categorias (
   ID_categoria INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
   tipo_categoria  VARCHAR(100),
-  pontuacao DECIMAL(1,1)
+  pontuacao DECIMAL(20,2)
 ); 
 
 CREATE TABLE Cardapio (
