@@ -120,7 +120,7 @@ VALUES
 (4, 'Japones',  5.0),
 (5, 'caseiro', 4.6),
 (6, 'lanche', 4.3),
-(7, 'mercado', 4.0)
+(7, 'mercado', 4.0),
 (8, 'mexicano', 5.0),
 (9, 'arabe', 4.6),
 (10, 'sorvete', 4.7),
@@ -152,7 +152,7 @@ VALUES
 (9, 9, 'Comida'),
 (10, 10, 'Comida');
 
-INSERT INTO Itens_Pedido(ID_Itemp, ID_item, ID_Pedido)
+INSERT INTO Itens_Pedido(ID_Itemp, ID_item, ID_Pedido, ID_restaurante)
 VALUES
 (1, 1,  1, 10),
 (2, 2, 2, 9),
