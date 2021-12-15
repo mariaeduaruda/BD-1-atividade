@@ -1,6 +1,6 @@
 https://github.com/mariaeduaruda/BD-1-atividade
 
-USE marketplace;
+USE foodservice;
 
 SELECT * FROM Consumidor;
 SELECT * FROM Pedido;
